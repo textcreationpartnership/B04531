@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the dearly beloved people of God, mercy and peace.</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04531</idno>
+            <idno type="STC">Wing N292A</idno>
+            <idno type="STC">ESTC R180842</idno>
+            <idno type="EEBO-CITATION">49520947</idno>
+            <idno type="OCLC">ocm 49520947</idno>
+            <idno type="VID">174185</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174185)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2673:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the dearly beloved people of God, mercy and peace.</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: J.N. [i.e. James Naylor--Cf. Wing].</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:174185:1"/>
+            <head>To all the Dearly Beloved <hi>PEOPLE OF GOD,</hi> Mercy and Peace.</head>
+            <p>THere is nothing dear and precious to me in this World, but God's Truth, and his Life of Righteouſneſs; for which I have for ſaken all the World, and whatever was dear to me therein, I have hated and counted it as an Enemy, that I might obtain Chriſt, the Fountain and Spring of that Eternal Life of Truth, the Beauty whereof I cannot expreſs, as I ſee it and feel it: The Lovelineſs thereof to my Soul hath ſo dearly united my Spirit to all that bear the Image and Life of it, that there can be no Separation, but my Life ſuffers thereby; and I can truly ſay, that there is no other thing whatſoever that can unite me, as one with any Creature living, but this Image and Life, where I ſee it born up, or breathing to Life; but in whomſoever it be (without reſpect of Perſons) that I ſee the leaſt appearance of this Seed of Life is, I can (by that Power of Love the Father hath begotten in me) lay down my Life to ſerve for the Seed's ſake. And wherein I have come ſhort of this formerly, and have reſpected the High, more than ſtood only in this Seed, I have been judged of the Lord, and my evil Thoughts therein condemned; yea, and I do condemn them before all the World, to be of that which favours Self, and not the Things of Chriſt: And the lower God doth bring me, and the nearer to himſelf, the more doth this Love and Ten<g ref="char:EOLhyphen"/>derneſs ſpring and ſpread towards the poor, ſimple, and de<g ref="char:EOLhyphen"/>ſpiſed ones, who are poor in Spirit, meek and lowly Suffering Lambs; and with thoſe I chooſe to ſuffer, and do ſuffer, where<g ref="char:EOLhyphen"/>ever they are found; and I bear my Teſtimony againſt that Spirit by which they ſuffer, where-ever it is found; and this lies upon me from the Lord: Hearing and feeling a Spirit of Enmity having got head, by what the Lord hath done with me, and now doth exerciſe its Power againſt the Peaceable Meetings of the Lord's People, the Burthen where of lies heavy upon me, and I ſuffer under it, and have long waited with Prayers, and Tears of Sorrow, Night and Day, to receive Counſel from the Lord what to do in it, in that Condition I am now in at preſent: God knows, I Lye not; for there is nothing
+<pb n="2" facs="tcp:174185:2"/>
+of all my Hardſhips that hath lain and doth lie upon me like this, that any of the Flock of God ſhould be offended, or ſuffer through me; therefore I have not ceaſed to warn (as God hath opened to me) ſuch as I could ſpeak to, to live in Peace and Love; to ſuffer, but not to act Strife and Violence; and have denied that Spirit, not to be of the Lamb, but an Enemy to him, tho' the Creature may not know it, but may think it is doing God ſervice; it being got above the ſuffering Seed in themſelves, would ſcatter and devour it in others: And this Spirit the Lord hath ſhewed me, and its end, and hath re<g ref="char:EOLhyphen"/>deemed me from it by the Spirit of the Lamb; and I ſhall never join, as Head or Tail, therewith; but ſhall earneſtly pray to the Father, that a deep Search of Truth may ſeriouſly paſs through the Hearts and Reins of all Contenders, that all that are guilty herein may ſpeedily come to Repentance, left they be hardned therein, and there come a time when they would give whatever is dear to them for one Hour's Society with the People of God, and cannot obtain it; then with lamentable Wo ſhall the Wrath of that be known, that is now trampled on, without the true Fear of God, or Life of his Love: And having at length received this Favour of the Lord, I have taken this time, in the tender Bowels of Love, (as one wounded there<g ref="char:EOLhyphen"/>with) to warn you hereof: Beſeeching you all, for the Lord Jeſus Chriſt's ſake, that you all ſearch low for the Bowels of him who loved you, and ſuffered for you, when you were his Enemies, and put them on towards all Men, but eſpecially to<g ref="char:EOLhyphen"/>wards one another, who have been called by one Spirit into one Truth; that ſo the holy Spirit be no more grieved, nor Satan get any more advantage; whoſe Work is to ſow Diſſen<g ref="char:EOLhyphen"/>tion, even among Brethren.</p>
+            <p>And the Lord God of Love give us all to ſee, that whatever our Gifts or Powers be, yet if we have not the Life and Power of Love, it avails not with God, though Men may eſteem of us ne<g ref="char:EOLhyphen"/>ver ſo high: For only he that dwells in Love, knows God, and lives in him; the reſt knows not what Spirit they are of. And this I feelingly declare, from that dear Love of God in me, be<g ref="char:EOLhyphen"/>gotten to all his People; whereby I am ſo far from taking delight in troubling the People of God, that their growth in Peace and Truth, upon the Foundation laid already, was never ſo much deſired; and my Love to them is daily increaſed, beyond what
+<pb n="3" facs="tcp:174185:2"/>
+I can here expreſs, yet the Lord knows it, and whence it is, whether it be receiv'd by Men or no; yet the Seed ſnall feel it (in God's time) to which it is, and in whoſe Peace only I have Peace; and I hope, in the Power of that Love, God will ſo ſtrengthen me, that nothing of Shame, Loſs, or Reproach, ſhall ever be too hard to take up for the advancement thereof, as God ſhall ſhew and lead me therein, without whom I dare do nothing, leſt I deny his Work, or confound it with my own.</p>
+            <p>And concerning you, the tender Plants of my Father, who have ſuffered through me, or with me, in what the Lord hath done with me, in this time of great Tryal and Temptation; the Almighty God of Love, who hath numbred every Sigh, and put every Tear in his Bottle, Reward it a Thouſand-fold into your Boſoms, in the Day of your need, when you ſhall come to be tryed and tempted; and in the mean time fulfil your Joy with his Love, which you ſeek after. The Lord knows, it was ne<g ref="char:EOLhyphen"/>ver in my Heart to cauſe you to mourn, whoſe Sufferings is my greateſt Sorrow, that ever yet came upon me, for you are in<g ref="char:EOLhyphen"/>nocent herein: But the Envious One hath taken his advantage, which the Lord will turn to his diſadvantage, and utter ruine in many Souls; and in this believing, is all my reſt, in my great trouble of heart, concerning you or my ſelf; and in Patience I wait to ſee it, when the Man of Sin hath had his time, to be revealed. For I have ſeen the good Hand of God all along working in it; whoſe End is good to all that love him, elſe had I been deſtroy'd e're this, ſuch hath been the Violence of the Enemy of my Soul: But he hath numbred my Hairs, and not left me in the Fire or Water; when none elſe was with me, thou wert my Comforter. O that I may never hide thy Praiſe, by covering my Sin or Shame! God forbid.</p>
+            <p>By a way unexpected did the Lord open a way to declare theſe Words, all other means of writing being taken from me. Bleſſed be He, on whom I wait further to ſee his Will, that I may do or ſuffer it.</p>
+            <closer>
+               <signed>The Preſence and Peace of the Almighty comfort his People, whom I ſalute in the Bowels of Love.
+James Naylor.</signed>
+            </closer>
+            <postscript>
+               <p>I beſeech you (all that can) to receive it, even as you would be received of the Lord; and for the reſt, the Lord give me Patience to ſuffer, till the Lord make up the Breach.</p>
+            </postscript>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:174185:3"/>
+            <head>A Teſtimony to Chriſt Jeſus, delivered to the Par<g ref="char:EOLhyphen"/>liament, who Perſecuted him as a Blaſphemer; written in the time of his Impriſonment in <hi>Bride<g ref="char:EOLhyphen"/>well.</hi>
+            </head>
+            <p>CHriſt Jeſus, the <hi>Immanuel,</hi> (of whoſe Sufferings the Scrip<g ref="char:EOLhyphen"/>tures declare) him alone I confeſs before Men; for whoſe ſake I have denied whatever was dear to me in this World, that I might win him, and be found in him, and not in my ſelf, whoſe Life and Virtue I find daily manifeſt in my mortal Body, (which is my Eternal Joy and Hope of Glory) whom alone I ſeek to ſerve in Spirit, Soul and Body, Night and Day, (according to the meaſure of Grace working in me) that in me he may be glorified, whether by Life or Death; and for his ſake I ſuffer all things, that he alone may have the Glory of my Change, whoſe Work alone it is in me: Even to that Eternal Spirit be Glory, and to the Lamb for ever.</p>
+            <p>But to aſcribe this Name, Power and Virtue to <hi>James Nay<g ref="char:EOLhyphen"/>lor,</hi> (or to that which had a beginning, and muſt return to Duſt) or for that to be exalted or worſhipped, to me is great Idolatry, and with the Spirit of Chriſt Jeſus in me it is con<g ref="char:EOLhyphen"/>demned; which Spirit leads to Lowlineſs, Meekneſs, and Long-ſuffering.</p>
+            <p>So having an opportunity given, (with readineſs) I am willing in the Fear of God the Father, (in Honour to Chriſt Jeſus, and to take off all Offences from every ſimple Heart) this to declare to all the World, as the Truth of Chriſt is in me, without Guile or Deceit, daily finding it to be my Work to ſeek Peace in Truth with all Men in that Spirit.</p>
+            <closer>
+               <signed>James Naylor</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="5" facs="tcp:174185:3"/>
+            <head>J. N's <hi>ANSWER</hi> to the <hi>FINATICK HISTORY,</hi> In Relation to himſelf.</head>
+            <p>AS for thy Charge againſt <hi>J. N.</hi> through the Everlaſting Mercy of my God, I have yet a Being amongſt the Li<g ref="char:EOLhyphen"/>ving, and breathe to anſwer for myſelf, though againſt the Intents of many Bloody Cruel Spirits, who purſued my Soul unto Death (as much as in them lay) in that Day of my Ca<g ref="char:EOLhyphen"/>lamity, when my Adverſary was above; and wherein I was made as a Sign to a Backſliding Generation, who then would not ſee nor hear what now is coming upon them, but rejoiced againſt this piece of Duſt, and had little pity towards him that was fallen into their Hands; wherein God was juſt, in giving me up for my Diſobedience for a little moment, as a Father to correct; yet ſhould not they have ſought to ag<g ref="char:EOLhyphen"/>gravate things againſt me, as thou doſt: For it was a Day of deep Diſtreſs, and lay ſore upon my Soul; and the piti<g ref="char:EOLhyphen"/>ful God ſaw it, who, though he was a little diſpleaſed, yet his Thoughts was not to caſt off for ever, <hi>[but extend Mercy]</hi> as it is at this Day: Glory be to his Name from my deliver'd Soul eternally.</p>
+            <p>And in that Day there was many Spirits flock'd about me; and ſome whom, while my Candle ſhone upon my Head, I ever judged, and kept out from me; who then got up, and acted and ſpoke ſeveral things, not in the Light and Truth of God; by which they who ſought occaſion againſt me, then was ſtrengthned to afflict this Body; and he that watches for Evil in thee, and ſome others, makes uſe of ſtill, againſt God's Truth and Innocent People; whoſe Mouths the God of my Mercy ſtop, and ſo finiſh the Trouble of my Heart, as to that thing. For my Soul hath long dwelt among Lions, even among them that are ſet on Fire, whoſe Teeth are Spears and Arrows, and their Tongues a ſharp Sword, ſpeaking miſchievous things to ſhed Blood.</p>
+            <p>But O Man, or Men, whatever you be, whoſe Work it is to gather together the Failings of God's People in Time of
+<pb n="6" facs="tcp:174185:4"/>
+Temptation, or Night of their Tryal, and aggravate them, and add thereto the Wickedneſs and miſchievous Lyes of your own Hearts, as thou haſt done in thy Book, and then come out with thoſe againſt God's Everlaſting Holy Truth, it to Reproach! I ſay, you are ſet to work by an Evil Spirit; and you do but ſhew your ſelves to be Enemies to God and his Children: And it is our Sorrow that any of us ſhould give ſuch Spirits occaſion to blaſpheme; and it hath been Trouble of Soul to all the People of God, that have ever loved Righteouſneſs, when they have thus occaſioned the Joy of the Wicked, or to feed that Man that watches for Ini<g ref="char:EOLhyphen"/>quity, and feeds on Miſchief. Yet know this, you that are of that Brood, God will not caſt off his People, though he be ſometimes provoked to correct them, even before their Ad<g ref="char:EOLhyphen"/>verſaries, (which is a Sign to them;) yet is his Anger but for a moment, and his Favour ſhall return as Streams of Life. Then ſhall the Food be taken out of the Mouth of the Viper, and the Prey from between the Teeth of the Devour<g ref="char:EOLhyphen"/>ers; and God ſhall feed them with their own Vomit; and the Poyſon, that hath long lain under their Tongues, ſhall be bitter in their own Bowels. Thus will God certainly plead with <hi>Zion</hi>'s Enemies, as he bends her Sons for himſelf, and God will make up her Breaches. And this hath my Soul ſeen, <hi>Jacob</hi>'s Captivity reſtored, and the Diggers of the Pit are fallen therein: Neither hath he ſmitten him, as he ſmote them that ſmote him; or is he ſlain, according to the Slaughter of them that are ſlain by him; but this is all his Fruit, to purge away his Sin.</p>
+            <p>So he that had long waited for my failing, then got ad<g ref="char:EOLhyphen"/>vantage againſt me; yet had I then Power to bear his ut<g ref="char:EOLhyphen"/>moſt Envy, through Chriſt Jeſus, whom I then confeſſed before Men, who then was my ſupport in all, and under all, and who is over all, bleſſed for ever, of all who have proved him in the depth.</p>
+            <p>But that which was and is the Sorrow of my Heart, is the advantage the Enemy then took againſt the Name of Chriſt, his Truth, and his deſpiſed People, in that time of Tempta<g ref="char:EOLhyphen"/>tion, which is that which thou art now purſuing, with Hatred
+<pb n="7" facs="tcp:174185:4"/>
+and Lyes; as that I had a Woman in Bed with me the Night before I ſuffer'd at <hi>Briſtol:</hi> When there was Six or Seven Perſons in the Room that Night, and a Man (to wit, <hi>Ro<g ref="char:EOLhyphen"/>bert Rich)</hi> in Bed with me. But this, and ſeveral other falſe things thou haſt written in thy Book, of which I am clear before the Lord, ſo they touch me not at all; nor ſhall I here mention them againſt thee in particular: But to God alone I look, in his time, to be cleared from all Offences in his ſight, who only knows my Heart in this thing; in whoſe Preſence I can ſay, that nothing is more odious and bur<g ref="char:EOLhyphen"/>thenſome to my Soul, than that any of that Glory or Wor<g ref="char:EOLhyphen"/>ſhip, which belongs to God or to Chriſt, ſhould be given to Fleſh and Blood, in my ſelf or others: And how it was with me at that Day, many talk of, but few knows; ſo the Judgment of ſuch I bear: Deſiring, that none in Judging me, might have Condemned themſelves in God's ſight, whoſe Counſels are a great Deep, and the End of his Works paſt finding out, till he himſelf reveal them; but in the End he will be juſtified of all, and in all he doth, that all Fleſh may be ſilent before him.</p>
+            <p>And however my ſelf, or any others, may be left to themſelves, to be tryed in the Night; yea, ſhould any ut<g ref="char:EOLhyphen"/>terly fall, or whatever may be acted by any Man or Wo<g ref="char:EOLhyphen"/>man, that is not juſtifiable in God's ſight; yet in vain doſt thou, or you, gather up Sin, or watch for Iniquity, to caſt upon the Light, which Condemns it in every Enlightned Conſcience, and there will clear himſelf to be no Author nor Actor therein: And I know by the Spirit of Jeſus, which I have received, and which worketh in me, that this is not his Work, nor his Seed, nor in him that loves thy Enemies, thou art not, but the old Accuſer of the Brethren it is that worketh ſtrongly in thee; and in the Light which thou Reproaches, art thou ſeen to be the Man that makes Lyes, and carries Tales to ſhed Blood, <hi>Ezek.</hi> 22. 9, 12.</p>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:174185:5"/>
+            <head>Another Paper added.</head>
+            <p>THere is a spirit which I feel, that delights to do no Evil, nor to revenge any Wrong, but delights to en<g ref="char:EOLhyphen"/>dure all things, in hope to enjoy its own in the End: Its hope is to outlive all Wrath and Contention, and to weary out all Exaltation and Cruelty, or whatever is of Nature con<g ref="char:EOLhyphen"/>trary to its ſelf. It ſees to the End of all Temptations: As it bears no Evil in it ſelf, ſo it conceives none in Thoughts to any other: If it be betrayed, it bears it; for its Ground and Spring is the Mercies and Forgiveneſs of God. Its Crown is Meekneſs, its Life is Everlaſting Love unfeigned, and takes its Kingdom with Intreaty, and not with Con<g ref="char:EOLhyphen"/>tention, and keeps it by Lowlineſs of Mind. In God alone it can rejoice, though none elſe regard it, or can own its Life. It's conceived in Sorrow, and brought forth without any to pity it; nor doth it murmur at Grief and Oppreſ<g ref="char:EOLhyphen"/>ſion. It never rejoyceth, but through Sufferings; for with the World's Joy it is murthered. I found it alone, being forſaken; I have Fellowſhip therein, with them who lived in Dens, and deſolate Places in the Earth, who through Death obtained this Reſurrection and Eternal Holy Life.</p>
+            <closer>
+               <signed>J. N.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
